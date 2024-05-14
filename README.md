@@ -1,5 +1,5 @@
 ### Olá me chamo Lucas Gomes 
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil GitHub. 👋
 
 <div>
 <a href="https://github.com/LucasGAraujo">
